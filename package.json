@@ -1,0 +1,12 @@
+{
+  "name": "dream-home-3d",
+  "version": "1.0.0",
+  "private": false,
+  "scripts": {
+    "start": "npx serve .",
+    "build": "echo \"Static site: no build step required\""
+  },
+  "devDependencies": {
+    "serve": "^14.2.5"
+  }
+}
