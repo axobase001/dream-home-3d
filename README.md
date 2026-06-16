@@ -13,4 +13,4 @@ npm start
 
 ## Deployment
 
-This repository is configured as a static Vercel project. No build step is required.
+This repository is configured as a static Vercel project. Vercel serves `public/index.html`; the root `index.html` is kept as the source copy.
